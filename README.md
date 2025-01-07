@@ -21,8 +21,8 @@ https://www.jondoesflow.com/post/primary-school-automation-solution-introducing-
 
 # How do I install the Parent Pulse unmanaged zip file ?
 
-1. Download the file from here
-2. Go to https://make.powerapps.com
+1. Download the file from [here](https://github.com/jondoesflow/ParentPulse/blob/main/ParentPulse_1_0_0_1.zip)
+2. Go to [https://make.powerapps.com](https://make.powerapps.com)
 3. Click Solutions on the left hand navigation
 4. Click Import Solution in the tool bar at the top
 5. Browse to the downaloded location of the zip file
@@ -31,7 +31,7 @@ https://www.jondoesflow.com/post/primary-school-automation-solution-introducing-
 8. Click Next
 9. Sign in to the relevant connections
 10. Add new connections where the red I is
-11. Click next
+11. Click Next
 12. For the Weekly News Letter Location, where ever you have created your Teams Site, go there > Documents > Templates and Upload the Weekly News Letter template (see [here](https://www.jondoesflow.com/post/02-primary-school-automation-solution-send-reminders-for-rsvp-records) for the steps to create the template), paste this location in this environment variable, it should look something like:
 
 ![image](https://github.com/user-attachments/assets/6fd5008f-40f6-4606-9c64-2bdeafffcd17)
